@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ManojApp</string>
+
+    <string name="product_type">Product Type</string>
+    <string name="upload_product_data">Upload Product Details</string>
+    <string name="product_name">Please Enter Product Name</string>
+    <string name="product_rate">Please Enter Product Rate</string>
+    <string name="discount_rate">Please Enter Discount Rate</string>
+    <string name="Description">Please Enter Description</string>
+
+    <string-array name="items_producttype">
+        <item>Select Product</item>
+        <item>Product_1</item>
+        <item>Product_2</item>
+        <item>Product_3</item>
+    </string-array>
+
+
+</resources>
